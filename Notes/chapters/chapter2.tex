@@ -1,0 +1,53 @@
+\chapter{Linear Regression}
+
+Regression is a fundamental concept that can modelling the relationship between a dependent variable and one or more independent variables. Linear regression is one of the simplest and most widely used regression techniques. It assumes a linear relationship between the input features and the output variable.
+
+\section{Basic Concepts}
+
+\subsection{Linear Model}
+
+Traditional linear model can be represented as:
+\[
+y = w^T x + b
+\]
+
+where \(y\) is the predicted output, \(x\) is the input feature vector, \(w\) is the weight matrix, and \(b\) is the bias term.
+
+More rigorously speaking, the formula above is a kind of \textbf{affine transformation}, which is a linear transformation followed by a translation. In this case, the linear transformation is represented by the weight matrix \(w\), and the translation is represented by the bias term \(b\).
+
+\subsection{Loss Function}
+
+The loss function quantifies the difference between the predicted output and the actual output. In linear regression, the most commonly used loss function is defined as:
+\[
+l^{(i)} = \frac{1}{2}(y^{(i)} - \hat{y}^{(i)})^2
+\]
+
+where \(l^{(i)}\) is the loss for the \(i\)-th training example, \(y^{(i)}\) is the actual output, and \(\hat{y}^{(i)}\) is the predicted output.
+
+To measure the overall performance of the model on the entire training dataset, we can use the Mean Squared Error (MSE) loss function, which is defined as:
+\[
+L = \frac{1}{m} \sum_{i=1}^{m} l^{(i)} = \frac{1}{2m} \sum_{i=1}^{m} (y^{(i)} - \hat{y}^{(i)})^2
+\]
+
+where \(L\) is the overall loss, and \(m\) is the number of training examples.
+
+The overall purpose is to find the optimal parameters \(w\) and \(b\) that minimize the loss function \(L\).
+
+\subsection{Analytical Solution for Linear Regression}
+
+Unlike other machine learning algorithms that require iterative optimization techniques, linear regression has a closed-form solution. The optimal parameters \(w\) and \(b\) can be computed directly using the following formulas:
+\[
+w = (X^T X)^{-1} X^T y
+\]
+\[
+b = \bar{y} - w^T \bar{x}
+\]
+
+where \(X\) is the input feature matrix, \(y\) is the output vector, \(\bar{y}\) is the mean of the output values, and \(\bar{x}\) is the mean of the input features.
+
+Analytical solution is computationally efficient for small to medium-sized datasets. However, for large datasets or high-dimensional feature spaces, iterative optimization techniques such as Gradient Descent are often preferred.
+
+To better simulate the process of finding optimal parameters, we will introduce Gradient Descent in the next section.
+
+\subsection{Random Gradient Descent}
+
