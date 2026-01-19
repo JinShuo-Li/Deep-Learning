@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.27)  18 JAN 2026 13:09
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.11.27)  18 JAN 2026 19:30
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -643,35 +643,35 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 \c@tcb@cnt@mycor=\count350
 \c@tcb@cnt@myex=\count351
 \c@tcb@cnt@myrem=\count352
- (./main.aux (./chapters/preface.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux))
+ (./main.aux (./chapters/preface.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 205.
-LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 206.
+LaTeX Font Info:    ... okay on input line 206.
 \c@lstlisting=\count353
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 205.
+Package hyperref Info: Link coloring OFF on input line 206.
 
 Couldn't patch \deferred@thm@head!
 *geometry* driver: auto-detecting
@@ -852,26 +852,164 @@ LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <9> not available
 
  (./chapters/chapter2.tex
 Chapter 2.
-)
+
 
 [13
 
 
 
 
-] (./main.aux (./chapters/preface.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux))
+]
+
+[14]
+
+[15]
+File: chapters/pics/insert_1_linear.pdf Graphic file (type pdf)
+<use chapters/pics/insert_1_linear.pdf>
+
+
+[16]
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+
+[17]
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+
+[18]
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+
+[19]
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+
+[20]
+File: chapters/pics/insert_2_softmax.pdf Graphic file (type pdf)
+<use chapters/pics/insert_2_softmax.pdf>
+
+
+[21]
+
+[22]
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+
+[23]
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+
+[24]
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+
+[25]
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+
+[26]
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+\openout5 = `main.listing'.
+
+ (./main.listing)
+
+[27])
+
+[28]
+\openout2 = `chapters/chapter3.aux'.
+
+ (./chapters/chapter3.tex
+Chapter 3.
+)
+
+[29
+
+
+
+
+] (./main.aux (./chapters/preface.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 29655 strings out of 473832
- 603145 string characters out of 5733157
- 1391237 words of memory out of 5000000
- 52182 multiletter control sequences out of 15000+600000
- 561032 words of font info for 62 fonts, out of 8000000 for 9000
+ 29944 strings out of 473832
+ 608013 string characters out of 5733157
+ 1466988 words of memory out of 5000000
+ 52399 multiletter control sequences out of 15000+600000
+ 561040 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,6n,107p,637b,1594s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,7n,107p,637b,1594s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (16 pages).
+Output written on main.pdf (32 pages).
