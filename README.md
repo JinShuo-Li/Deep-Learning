@@ -9,7 +9,6 @@
 <p>
 	<img src="https://img.shields.io/badge/Python-3.11.9-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11.9" />
 	<img src="https://img.shields.io/badge/PyTorch-Practice-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Practice" />
-	<img src="https://img.shields.io/badge/TorchVision-Datasets-0A7E8C?style=for-the-badge" alt="TorchVision Datasets" />
 	<img src="https://img.shields.io/badge/LaTeX-Notes-2F855A?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Notes" />
 	<img src="https://img.shields.io/badge/License-CC0%201.0-7C3AED?style=for-the-badge" alt="CC0 1.0" />
 </p>
